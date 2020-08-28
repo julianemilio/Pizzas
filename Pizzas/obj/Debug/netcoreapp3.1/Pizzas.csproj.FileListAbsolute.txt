@@ -1,0 +1,13 @@
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.AssemblyInfoInputs.cache
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.AssemblyInfo.cs
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.csproj.CoreCompileInputs.cache
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.exe
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.deps.json
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.runtimeconfig.json
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.runtimeconfig.dev.json
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.dll
+C:\Users\josorio\source\repos\Pizzas\Pizzas\bin\Debug\netcoreapp3.1\Pizzas.pdb
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.dll
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.pdb
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.genruntimeconfig.cache
+C:\Users\josorio\source\repos\Pizzas\Pizzas\obj\Debug\netcoreapp3.1\Pizzas.csprojAssemblyReference.cache
